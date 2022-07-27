@@ -1,0 +1,22 @@
+40
+0:00:02,000 --> 00:00:07,023
+HOLA
+
+2
+0:00:05,043 --> 00:00:17,754
+hola mundo que tal
+espero que todo bien
+por aca creo que bien
+
+3
+0:00:20,001 --> 00:00:21,000
+que se yo
+
+4
+0:00:22,001 --> 00:00:26,000
+algo que no se
+
+5
+0:00:25,001 --> 00:01:03,000
+MUNDO
+
